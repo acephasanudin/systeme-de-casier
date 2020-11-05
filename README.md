@@ -13,7 +13,7 @@ Le programme de casier interactif simple utilise la ligne de commande pour stock
 
 | Commande                                    | La description                                                                        |
 | ------------------------------------------- | ------------------------------------------------------------------------------------- |
-| init [nombre de casiers                     | faire le compte des casiers                                                           |
+| init [nombre de casiers]                    | faire le compte des casiers                                                           |
 | status                                      | affiche l'état de chaque casier                                                       |
 | input [type d'identité] [numéro d'identité] | insérer la carte d'identité                                                           |
 | leave [numéro de casier]                    | vider le casier                                                                       |
